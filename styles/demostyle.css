@@ -1,6 +1,6 @@
-section.one {background-color: blue; overflow: scroll; position: absolute; left: auto; height: 75%; width: auto;}
+section.one {background-color: blue; overflow: scroll; position: absolute; left: auto; height: 75%; width: auto; visibility: hidden; }
 
-section.two {background-color: green; overflow: scroll; color: white; position: absolute; left: auto; height: 75%; width: auto; }
+section.two {background-color: green; overflow: scroll; color: white; position: absolute; left: auto; height: 75%; width: auto; visibility: hidden; }
 
 img {padding: 5pt; float: right; height: 100px; width: 125px }
 
